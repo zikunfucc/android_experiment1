@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">experiment4</string>
+    <string name="hint">请输入......</string>
+    <string name="sumbit">同步提交</string>
+</resources>
